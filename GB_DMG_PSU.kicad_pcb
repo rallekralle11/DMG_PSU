@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber")
 		)
 	)
 	(net 0 "")
@@ -2689,7 +2689,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "as large as possible"
 			(at 0 2.35 90)
 			(layer "F.Fab")
 			(uuid "b7157dc1-7916-48b1-8602-daad4f01fbd7")
@@ -3903,7 +3903,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "as large as possible"
 			(at 0 2.35 270)
 			(layer "F.Fab")
 			(uuid "d6c9bad0-b32d-46c5-95fb-b6aaff382201")
