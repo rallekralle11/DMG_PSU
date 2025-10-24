@@ -1,2 +1,2 @@
-**FYI the original design won't work, use the V2 folder if you want to manufacture this. Though neither is tested.**
+Also has an optional li-po charging system because why not.
 ![pic](GB_DMG_PSU.jpg)
