@@ -1,2 +1,2 @@
-Also has an optional li-po charging system because why not. Functional.
+Now tested and functional.
 ![pic](GB_DMG_PSU.jpg)
